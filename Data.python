@@ -1,0 +1,9 @@
+name = "Hari"     # string
+age = 20          # integer
+marks = 85.5      # float
+is_student = True # boolean
+
+print(name)
+print(age)
+print(marks)
+print(is_student)
